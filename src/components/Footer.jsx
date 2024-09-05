@@ -232,10 +232,10 @@ const Footer = () => {
 						Copyright &copy;{new Date().getFullYear()}. All Rights Reserved.
 						&mdash; Designed with love by{" "}
 						<a
-							href="https://untree.co"
+							href="https://elvisappiah.vercel.app"
 							className="text-blue-600 hover:text-blue-800"
 						>
-							Untree.co
+							Captain Hook
 						</a>
 					</p>
 				</div>

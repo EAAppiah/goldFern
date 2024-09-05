@@ -45,7 +45,7 @@ const Navbar = () => {
 										className={`
                     ${
 											isActive(item === "Home" ? "/" : `/${item.toLowerCase()}`)
-												? "font-semibold"
+												? "font-semibold text-primary"
 												: ""
 										}
                     ${isScrolled ? "text-gray-800" : "text-white"}
